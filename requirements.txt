@@ -1,0 +1,10 @@
+langchain_openai
+langgraph
+pydantic
+python-dotenv
+openai
+bs4
+requests
+matplotlib
+wordcloud
+textblob
